@@ -1,10 +1,7 @@
 package how.pkg
 
 class Test2 {
-    fun method2(){
-        println("test method2")
+    fun method(){
+        println("test method")
     }
-}
-fun Function() {
-    println("function")
 }
